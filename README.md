@@ -50,4 +50,4 @@ Compatibilitat amb VR (proximament)
 Segueix-nos a Instagram Facebook Twitter!
 
 ## Crèdits:
-Equip RetroGaming
+**Equip RetroGaming**
