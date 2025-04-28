@@ -1,8 +1,8 @@
-#Video Joc Retro
+# Video Joc Retro
 
 Benvigut a la plataforma definitiva de **Videojocs* retro.
 
-##Plataformes suportades
+## Plataformes suportades
 -PC
 -Consola
 -Mobile
@@ -13,12 +13,12 @@ Benvigut a la plataforma definitiva de **Videojocs* retro.
 3.Tetris
 4.Sonic the Hedgehog
 
-##Característiques
+## Característiques
 - Grafics pixelats increïbles
 - Banda sonora *8-bits emocionant
 - Suport per comandaments inalàmbrics
 
-##Funcionalitats Properes
+## Funcionalitats Properes
 |Funcionalitat|Disponibilitat
 |Multijugador|En desenvolupament
 |Tornejos en línia|2026
@@ -27,7 +27,7 @@ Benvigut a la plataforma definitiva de **Videojocs* retro.
 * Millor joc retro 2023
 *Premi a la millor jugabilitat
 
-###Requisits de sistema
+### Requisits de sistema
 - Windows XP o superior
 512MB RAM
 Targeta gràfica de 64MB
