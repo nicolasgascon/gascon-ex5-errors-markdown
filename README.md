@@ -36,8 +36,8 @@ Targeta gràfica de 64MB
 **Actualitzacions* trimestrals
 Compatibilitat amb VR (proximament)
 
-##Contacte
+## Contacte
 Segueix-nos a Instagram Facebook Twitter!
 
-##Crèdits:
+## Crèdits:
 Equip RetroGaming
