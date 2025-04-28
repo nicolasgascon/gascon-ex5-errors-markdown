@@ -10,13 +10,13 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 -Mobile
 
 ## Llistat de jocs Populars
-1.Pacman
+1. Pacman
 
 2. Super Mario Bross
 
-3.Tetris
+3. Tetris
 
-4.Sonic the Hedgehog
+4. Sonic the Hedgehog
 
 ## Característiques
 - Grafics pixelats increïbles
