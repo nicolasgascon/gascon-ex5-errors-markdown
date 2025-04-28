@@ -34,7 +34,7 @@ Taula
 | Tornejos en linia    | 2026   |
 
 ## Premis i Reconexements:
-* Millor joc retro 2023
+*Millor joc retro 2023*
 *Premi a la millor jugabilitat
 
 ### Requisits de sistema
