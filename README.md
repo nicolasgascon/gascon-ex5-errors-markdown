@@ -39,7 +39,7 @@ Taula
 
 ### Requisits de sistema
 - Windows XP o superior
-512MB RAM
+- 512MB RAM
 Targeta gràfica de 64MB
 
 ## Notes addicionals
