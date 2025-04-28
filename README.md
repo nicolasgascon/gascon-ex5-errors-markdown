@@ -26,9 +26,12 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 - Suport per comandaments inalàmbrics
 
 ## Funcionalitats Properes
-|Funcionalitat|Disponibilitat
-|Multijugador|En desenvolupament
-|Tornejos en línia|2026
+Taula
+| Funcionalitat   | Disponibilitat |
+
+| Multijugador    | En desenvolupament   |
+
+| Tornejos en linia    | 2026   |
 
 ## Premis i Reconexements:
 * Millor joc retro 2023
