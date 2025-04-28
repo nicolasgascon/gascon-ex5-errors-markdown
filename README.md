@@ -1,6 +1,6 @@
 # Video Joc Retro
 
-Benvigut a la plataforma definitiva de **Videojocs* retro.
+Benvigut a la plataforma definitiva de **Videojocs** retro.
 
 ## Plataformes suportades
 -PC
